@@ -49,9 +49,10 @@ body {
 
 .banner {
   height: 500px;
-  background-color: green;
-  background-attachment: fixed;;
+  background-attachment: scroll;
+  background-size: cover;
   width: 100%;
+  background-image: url("./Images/HeroImage.png");
 }
 
 #bannerContent {
