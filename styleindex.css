@@ -57,6 +57,9 @@ body {
 	padding: 30px 10px;
 	margin: auto;
 	color: white;
+	width: 45%;
+	border-radius: 25px;
+	background-color: rgba(0, 0, 0, 0.8);
 }
 /* Languages */
 .languages {
