@@ -10,7 +10,7 @@ body {
 	text-transform: uppercase;
 	display: inline;
 	float: right;
-	
+
 }
 
 .navigation ul {
@@ -57,4 +57,32 @@ body {
 	padding: 30px 10px;
 	margin: auto;
 	color: tbd;
+}
+
+.languages li {
+	display: inline-block;
+	float: none;
+	padding: 10px;
+	text-align: center;
+}
+
+
+.languages img {
+	/* Do this so the images are vertically centered with the text */
+	vertical-align: middle;
+}
+
+.divider {
+	background-color: darkgrey;
+	height: 1px;
+	width: 85%;
+}
+
+.languagesTitle h1 {
+	padding-top: 30px;
+	font-size: 40px;
+}
+
+.languagesTitle h3 {
+	color: grey;
 }
