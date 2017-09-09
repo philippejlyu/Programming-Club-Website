@@ -41,6 +41,8 @@ body {
 /* Make the title go on the left side of the navi bar */
 #title li {
 	float: left;
+	padding-left: 0px;
+	padding-top: 0px;
 }
 /* Banner */
 .banner {
