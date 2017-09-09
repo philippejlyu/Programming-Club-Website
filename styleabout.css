@@ -45,10 +45,11 @@ body {
 
 /* Banner */
 .banner {
-  height: 400px;
+  height: 500px;
   width: 100%;
-  background-image: tbd;
-  background-color: green;
+  background-size: cover;
+  background-attachment: scroll;
+  background-image: url("./Images/HeroImage.png");
 }
 
 #bannerContent {
