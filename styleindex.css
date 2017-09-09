@@ -2,7 +2,7 @@ body {
 	background-color: #FFF;
 	font-family: Helvetica, sans-serif;
 }
-
+/* Navigation Bar */
 .navigation li {
 	margin-left: 0px;
 	margin-right: 0px;
@@ -42,13 +42,13 @@ body {
 #title li {
 	float: left;
 }
-
+/* Banner */
 .banner {
 	background-size: cover;
-	background-color: lightgreen;
 	height: 500px;
 	width: 100%;
-	background-attachment: fixed;
+	background-attachment: scroll;
+	background-image: url("./Images/HeroImage.png");
 }
 
 #bannerContent {
@@ -56,7 +56,11 @@ body {
 	top: 20%;
 	padding: 30px 10px;
 	margin: auto;
-	color: tbd;
+	color: white;
+}
+/* Languages */
+.languages {
+	background-color: lightgrey;
 }
 
 .languages li {
@@ -85,4 +89,35 @@ body {
 
 .languagesTitle h3 {
 	color: grey;
+}
+/* Learn to Code */
+.learnToCode li {
+	display: inline-block;
+	float: none;
+	padding: 0px 30px;
+	text-align: center;
+}
+
+.learnToCode h1 {
+	padding-top: 30px;
+}
+/* Footer */
+.footer {
+	background-color: black;
+	height: 200px;
+	color: white;
+	width: 100%;
+}
+
+.footer ul {
+	list-style-type: none;
+}
+
+.footer li {
+	margin-left: 0px;
+	margin-right: 0px;
+	display: inline-block;
+	float: none;
+	text-align: center;
+	padding: 65px 100px;
 }
