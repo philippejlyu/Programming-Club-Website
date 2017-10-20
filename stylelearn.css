@@ -87,6 +87,10 @@ body {
 	width: 100%;
 }
 
+.footer a {
+	color: white;
+}
+
 .footer ul {
 	list-style-type: none;
 }
