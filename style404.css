@@ -81,6 +81,10 @@ body {
 	color: white;
 }
 
+.footer a:visited {
+	color: white;
+}
+
 .footer ul {
 	list-style-type: none;
 }
