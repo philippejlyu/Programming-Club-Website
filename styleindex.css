@@ -132,6 +132,11 @@ body {
 	color: white;
 }
 
+.footer h3 {
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
 .footer ul {
 	list-style-type: none;
 }
