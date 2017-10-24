@@ -95,15 +95,7 @@ body {
 	color: white;
 }
 
-.footer ul {
-	list-style-type: none;
-}
-
-.footer li {
-	margin-left: 0px;
-	margin-right: 0px;
-	display: inline-block;
-	float: none;
-	text-align: center;
-	padding: 65px 100px;
+.footer h3 {
+	padding-top: 30px;
+	padding-bottom: 20px;
 }
