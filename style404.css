@@ -44,7 +44,7 @@ body {
 }
 
 /* change the color when the mouse hovers over a navigation bar button */
-.navigation a:hover {
+.navigation .button:hover {
 	background-color: lightgray;
 }
 
